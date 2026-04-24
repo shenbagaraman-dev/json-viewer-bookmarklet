@@ -22,7 +22,11 @@ This tool runs entirely in your browser. No data is collected or sent to any ser
 
 ## 🌐 Install Page
 
-https://shenbagaraman-dev.github.io/json-viewer-bookmarklet/
+<p>
+  <a href="https://shenbagaraman-dev.github.io/json-viewer-bookmarklet/" target="_blank">
+    🚀 Open Install Page (opens in new tab)
+  </a>
+</p>
 
 ## 📄 License
 
