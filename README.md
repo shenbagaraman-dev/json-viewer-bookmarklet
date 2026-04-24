@@ -4,7 +4,9 @@ A lightweight browser bookmarklet to format, inspect, and explore JSON directly 
 
 # 👀 JSON Viewer Bookmarklet
 
-<img width="721" height="677" alt="JSON_Viewer_Demo" src="https://github.com/user-attachments/assets/0211df1c-14af-476e-99a3-0c0bb048576e" />
+<img width="621" height="577" alt="JSON_Viewer_Demo" src="https://github.com/shenbagaraman-dev/json-viewer-bookmarklet/blob/main/JSON_Viewer_Demo.gif" />
+
+
 
 ## 🚀 Install
 
