@@ -1,32 +1,42 @@
 # JSON Viewer Bookmarklet
 
-A lightweight bookmarklet to format, inspect, and explore JSON directly in your browser.
+A lightweight browser bookmarklet to format, inspect, and explore JSON directly in your browser.
+
+## 🚀 Install
+
+Open the install page:
+
+👉 [JSON Viewer Bookmarklet Install Page](https://shenbagaraman-dev.github.io/json-viewer-bookmarklet/)
+
+Tip: Ctrl-click / Cmd-click to open in a new tab.
 
 ## ✨ Features
 
-- Format raw JSON instantly
-- Cleaner, readable view
-- Works on any page
-- Runs locally (no data sent anywhere)
-
-## 🚀 Installation
-
-1. Open the install page (link below)
-2. Drag the bookmarklet to your bookmarks bar
-3. Open any JSON page
-4. Click the bookmarklet
+- Beautify and syntax-highlight JSON
+- Explore JSON in a collapsible tree view
+- View JSON as a searchable key/value table
+- Works with full-page JSON or selected JSON text
+- Runs locally in your browser
+- No upload, no tracking, no server
 
 ## 🔒 Privacy
 
-This tool runs entirely in your browser. No data is collected or sent to any server.
+This bookmarklet runs entirely in your browser.  
+Your JSON data is not uploaded, collected, stored, or sent anywhere.
 
-## 🌐 Install Page
+## 🧪 How to use
 
-<p>
-  <a href="https://shenbagaraman-dev.github.io/json-viewer-bookmarklet/" target="_blank">
-    🚀 Open Install Page (opens in new tab)
-  </a>
-</p>
+1. Open the install page
+2. Drag the **JSON Viewer** button to your bookmarks bar
+3. Open a page containing JSON
+4. Click the bookmarklet
+5. Choose Beautify, Tree Explorer, or Table View
+
+## 🧰 Files
+
+- `index.html` — install page
+- `bookmarklet.js` — readable source version
+- `bookmarklet.min.js` — bookmarklet-ready version
 
 ## 📄 License
 
