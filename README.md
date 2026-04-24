@@ -1,12 +1,8 @@
 # JSON Viewer Bookmarklet
 
-A lightweight browser bookmarklet to format, inspect, and explore JSON directly in your browser.
-
-# 👀 JSON Viewer Bookmarklet
+A lightweight browser bookmarklet to format, inspect, and explore JSON directly in your browser. Runs locally—no data is sent to any server.
 
 <img width="621" height="577" alt="JSON_Viewer_Demo" src="https://github.com/shenbagaraman-dev/json-viewer-bookmarklet/blob/main/JSON_Viewer_Demo.gif" />
-
-
 
 ## 🚀 Install
 
